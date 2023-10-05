@@ -74,4 +74,13 @@
     box-sizing: border-box;
 }
 
+.textField>input::placeholder {
+    color: #F0FFFFDE;
+}
+
+.textField>label {
+    color: #F0FFFFDE;
+    margin-bottom: 10px;
+}
+
 .btn-login {}
