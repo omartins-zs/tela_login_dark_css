@@ -1,7 +1,11 @@
 TELA DE LOGIN COM TEMA DARK | HTML + CSS
 
 
+Add Link do Tutorial:  https://www.youtube.com/watch?v=69-WfrVBli8
 
 
 Melhoria adicionar o button de redes sociais
 https://github.com/jamisu337/tela-de-login---botao-de-redes-sociais/tree/main
+
+
+Add Link de Exemplo Deploy
